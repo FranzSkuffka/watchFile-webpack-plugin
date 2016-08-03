@@ -23,14 +23,14 @@
   "devDependencies": {
     "chai": "^3.4.1",
     "mocha": "^2.3.4",
-    "path": "^0.12.7",
-    "watch": "^0.17.1"
+    "path": "^0.12.7"
   },
   "dependencies": {
     "jsx-loader": "^0.13.2",
     "node-async-require-loader": "^1.1.14",
     "node-fetch": "^1.3.3",
     "react": "^0.14.5",
+    "watch": "^0.17.1",
     "webpack": "^1.12.9",
     "webpack-dev-server": "^1.14.0"
   }
